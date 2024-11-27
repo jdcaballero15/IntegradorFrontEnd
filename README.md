@@ -1,8 +1,25 @@
-Este repositorio contiene el Proyecto Integrador de Frontend, donde hemos desarrollado el diseño de una página web para la venta de productos gastronómicos. El proyecto incluye operaciones como CRUD, filtrado de productos por categoría y también incorpora una barra de desplazamiento ('scrollbar').
+# Proyecto Integrador de Frontend
 
-Este trabajo ha sido desarrollado con Vite, JavaScript, HTML y CSS, combinando tecnologías modernas para proporcionar una experiencia de usuario sobresaliente.
+Este repositorio alberga el Proyecto Integrador de Frontend, una aplicación web diseñada para la venta de productos gastronómicos. El proyecto incluye funcionalidades avanzadas como operaciones CRUD, filtrado de productos por categoría y una barra de desplazamiento ('scrollbar') para mejorar la navegación.
 
-Para ejecutar el proyecto, es necesario tener instalado Node.js. A continuación, los comandos requeridos para iniciar el entorno de Vite:
+## Tecnologías Utilizadas
 
-npm install
-npm run dev
+- **Vite**: Herramienta de construcción rápida y moderna.
+- **JavaScript**: Lenguaje de programación principal.
+- **HTML**: Estructura de la página web.
+- **CSS**: Estilos y diseño de la interfaz de usuario.
+
+## Características Principales
+
+- **Operaciones CRUD**: Permite la creación, lectura, actualización y eliminación de productos.
+- **Filtrado por Categoría**: Facilita la búsqueda de productos específicos.
+- **Barra de Desplazamiento**: Mejora la experiencia de navegación.
+
+## Requisitos Previos
+
+Para ejecutar el proyecto, es necesario tener instalado [Node.js](https://nodejs.org/).
+
+## Instrucciones de Instalación y Ejecución
+
+1. npm install
+2. npm run dev
